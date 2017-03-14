@@ -16,3 +16,26 @@ c:\users\руслан\documents\visual studio 2015\Projects\GameStore\GameStore.
 c:\users\руслан\documents\visual studio 2015\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
 c:\users\руслан\documents\visual studio 2015\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
 c:\users\руслан\documents\visual studio 2015\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+C:\Users\USER\Downloads\Project-Shop-master\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
